@@ -44,26 +44,30 @@ This Decentralized Marketplace is a blockchain-based platform that allows users 
 ````bash
 git clone https://github.com/RVKarthikeyan/Decentralized-Marketplace-SEM
 cd Decentralized-Marketplace-SEM
+````
 
 ### Install Dependencies
 
 - For the frontend:
 
-```bash
+````bash
 cd frontend
 npm install
+````
 
 - For the backend:
 
-```bash
+````bash
 cd ../backend
 npm install
+````
 
 - For the smart contracts:
 
 ```bash
 cd ../contracts
 npm install
+````
 
 ## Usage
 
@@ -71,9 +75,10 @@ npm install
 
 - Navigate to the frontend directory and run:
 
-```bash
+````bash
 cd frontend
 npm run dev
+````
 
 - Access the application at http://localhost:3000.
 
@@ -81,9 +86,10 @@ npm run dev
 
 - Navigate to the backend directory and run:
 
-```bash
+````bash
 cd backend
 npm start
+````
 
 ### Deploying Smart Contracts
 
@@ -95,4 +101,3 @@ npm start
 
 ## License
 - This project is licensed under the MIT License. See the LICENSE file for details.
-````
